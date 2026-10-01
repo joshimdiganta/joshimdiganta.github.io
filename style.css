@@ -11,8 +11,8 @@
 }
 
 .hero-photo {
-    width: 360px;
-    height: 460px;
+    width: 260px;
+    height: 3260px;
     flex-shrink: 0;
     overflow: hidden;
     border-radius: 20px;
